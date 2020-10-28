@@ -1,0 +1,100 @@
+/*
+teams colors:
+Name: Ocean Blue
+Hex: #464EB8
+Name: Medium Slate Blue
+Hex: #7B83EB
+Name: Iris
+Hex: #505AC9
+*/
+body{
+/*background-color: #505AC9;*/
+background-color: rgba(255, 255, 255, 0.911);
+margin-left: 5%;
+margin-right: 5%;
+
+   
+}
+#cont{
+   
+    padding:5%;
+    background-color:#7B83EB;
+   
+}
+#teams{
+   /* background-color: #464EB8;*/
+   background-color: white;
+    margin-top:0px;
+    padding-top: 0px;
+}
+.logo{
+    margin-left: 0;
+    
+
+}
+.titl{
+    padding-top: 19px;
+    padding-left: 50px;
+    font-size:300%;
+    color:#272e92;
+    text-align: center;
+    margin-top:0px; 
+    padding-top: 0px; 
+   
+}
+#teams img{
+    
+    margin-left: 37%;
+   
+    width: 30%;
+    height: 30%;
+}
+hr{
+   
+    
+}
+a{
+    color:black;
+}
+caption{
+    position: absolute;
+    border-style: solid;
+    border-width: 20px;
+
+    border: black;
+    caption-side: bottom;
+}
+iframe{
+    padding: 1%;
+    
+}
+h1{
+    color: white;
+}
+p, li{
+    line-height: 159%;
+
+    font-size: 110%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#faq a{
+    padding-bottom: 12px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 130%;
+
+}
+#faq a:hover{
+    color: #505AC9;
+}
+#faq a:visited{
+    color: white;
+}
+
+.roman{
+    list-style-type: upper-roman;
+}
+.square{
+    list-style-type: square;
+}
